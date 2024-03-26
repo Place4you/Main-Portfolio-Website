@@ -6,7 +6,7 @@ description: It's been a long year & a fruitful one (i got to go to the county s
 date: '2024-2-2'
 ---
 
-Note: Research From [Research Paper](https://drive.google.com/file/d/1O3PDD6LtsJ5p2B3vewsBOcFzmF1f_Eej/view?usp=drive_link)
+Note: Research is based on my own project. Click here for the [Research Paper](https://drive.google.com/file/d/1O3PDD6LtsJ5p2B3vewsBOcFzmF1f_Eej/view?usp=drive_link)
 
 ---
 
