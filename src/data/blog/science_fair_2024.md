@@ -126,6 +126,6 @@ For the full images: [Click Here](https://drive.google.com/drive/folders/15IfiR7
 
 P.S Check out the full refrences, check out above or [Click Here](https://drive.google.com/file/d/1O3PDD6LtsJ5p2B3vewsBOcFzmF1f_Eej/view?usp=drive_link)
 
-Thanks to My teacher and Brevard Public Schools for this Opportunity.
+Thanks to My teacher and the school system for this Opportunity.
 
 Peace✌️
