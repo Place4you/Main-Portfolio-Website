@@ -1,9 +1,9 @@
-import Image from 'next/image';
 import { MDXRemote } from 'next-mdx-remote';
+import Image from 'next/image';
 
 import { Blog, Pill } from '~/components';
-import { getPost, getAllPostSlugs } from '~/lib/post';
 import { Layout } from '~/layouts';
+import { getAllPostSlugs, getPost } from '~/lib/post';
 
 import type { GetStaticPaths, GetStaticProps } from 'next';
 import type { ParsedUrlQuery } from 'querystring';
@@ -48,7 +48,7 @@ export default function BlogPost({ post }: BlogPostProps): JSX.Element {
 		<>
 			<Layout.Blog
 				seo={{
-					title: `${post.frontmatter.title} ─ blog ─ nuro`,
+					title: `${post.frontmatter.title} ─ blog ─ faizan`,
 					description: post.frontmatter.description ?? undefined,
 					openGraph: {
 						title: post.frontmatter.title,

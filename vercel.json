@@ -1,20 +1,19 @@
 {
 	"$schema": "https://openapi.vercel.sh/vercel.json",
 	"version": 2,
-	"alias": "nuro.dev",
 	"cleanUrls": true,
 	"public": true,
 	"regions": ["lhr1"],
 	"redirects": [
-		{ "source": "/cv", "destination": "https://read.cv/nuro" },
-		{ "source": "/github", "destination": "https://github.com/nurodev" },
+		{ "source": "/cv", "destination": "https://read.cv/faizanak" },
+		{ "source": "/github", "destination": "https://github.com/babysharkdoodoo" },
 		{ "source": "/linkedin", "destination": "https://www.linkedin.com/in/nurodev" },
 		{ "source": "/portfolio", "destination": "/projects" },
-		{ "source": "/resume", "destination": "https://read.cv/nuro" },
-		{ "source": "/twitter", "destination": "https://twitter.com/nurodev" },
+		{ "source": "/resume", "destination": "https://read.cv/faizanak" },
+		{ "source": "/email", "destination": "mailto:faizan.ak.2022@gmail.com" },
 		{
 			"source": "/contact",
-			"destination": "https://twitter.com/direct_messages/create/nurodev"
+			"destination": "mailto:faizan.ak.2022@gmail.com"
 		}
 	]
 }
