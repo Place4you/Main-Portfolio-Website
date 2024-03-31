@@ -1,8 +1,8 @@
-import matter from 'gray-matter';
 import { format } from 'date-fns';
-import { join } from 'path';
 import { readdirSync, readFileSync } from 'fs';
+import matter from 'gray-matter';
 import { serialize } from 'next-mdx-remote/serialize';
+import { join } from 'path';
 
 import RehypeAutolinkHeadings from 'rehype-autolink-headings';
 import RemarkCodeTitles from 'remark-code-titles';
