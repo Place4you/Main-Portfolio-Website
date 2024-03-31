@@ -14,7 +14,7 @@ export function useSeoProps(
 	return {
 		title,
 		description,
-		canonical: `https://babysharkdoodoo.github.io/${router.asPath}`,
+		canonical: `https://faizanak.vercel.app/${router.asPath}`,
 		openGraph: {
 			title,
 			description,
