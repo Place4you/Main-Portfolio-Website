@@ -3,7 +3,6 @@ import { readdirSync, readFileSync } from 'fs';
 import matter from 'gray-matter';
 import { serialize } from 'next-mdx-remote/serialize';
 import { join } from 'path';
-
 import RemarkCodeTitles from 'remark-code-titles';
 import RemarkEmoji from 'remark-emoji';
 import RemarkPrism from 'remark-prism';
@@ -57,7 +56,7 @@ export async function getPost(slug: string): Promise<Post> {
 	const source = await serialize(content, {
 		scope: data,
 		mdxOptions: {
-			//			rehypePlugins: [[RehypeAutolinkHeadings, {}]],
+			//rehypePlugins: [[RehypeAutolinkHeadings, {}]],
 			remarkPlugins: [RemarkCodeTitles, RemarkEmoji, RemarkPrism, RemarkSlug],
 		},
 	});
