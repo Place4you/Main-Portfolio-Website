@@ -1,5 +1,4 @@
 import { Icon } from '@iconify/react';
-import { SpeedInsights } from '@vercel/speed-insights/next';
 import dynamic from 'next/dynamic';
 
 import { Animate, Button, Pill } from '~/components';
@@ -33,7 +32,7 @@ const ACTIONS: Array<NavigationItem> = [
 		type: NavigationItemType.LINK,
 		href: '/blog/about',
 		icon: <Icon className="mr-3" icon="line-md:person-twotone" />,
-		text: 'About Me',
+		text: 'About',
 	},
 	{
 		type: NavigationItemType.LINK,
@@ -51,7 +50,6 @@ export default function HomePage(): JSX.Element {
 		today.getDate() === birthday.getDate() && today.getMonth() === birthday.getMonth();
 
 	const description = `I am a python programmer & Student`;
-	<SpeedInsights />;
 	return (
 		<Layout.Default>
 			{isBirthday && <Event event={EventType.BIRTHDAY} />}
