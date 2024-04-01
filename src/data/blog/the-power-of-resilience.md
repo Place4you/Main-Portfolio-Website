@@ -1,6 +1,6 @@
 ---
 banner_alt: The Power of Resilience
-banner: https://images.unsplash.com/photo-1635712707224-233b9a093808?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHJlc2lsaWVuY2V8ZW58MHx8MHx8fDA%3D
+banner: https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 title: The Power of Resilience - Navigating Life's Storms with Inner Strength
 description: Unleashing Resilience - Your Blueprint for Thriving Through Life's Challenges
 date: '2024-3-31'
