@@ -30,6 +30,12 @@ const ACTIONS: Array<NavigationItem> = [
 	},
 	{
 		type: NavigationItemType.LINK,
+		href: '/blog/about',
+		icon: <Icon className="mr-3" icon="line-md:person-twotone" />,
+		text: 'About',
+	},
+	{
+		type: NavigationItemType.LINK,
 		external: true,
 		href: 'https://github.com/babysharkdoodoo',
 		icon: <Icon className="mr-3" icon="feather:github" />,
