@@ -37,6 +37,12 @@ export default function Error(): JSX.Element {
 								icon="feather:home">
 								Home
 							</Button.Standard>
+							<Button.Standard
+								type={NavigationItemType.LINK}
+								href="https://form.jotform.com/240964612082152"
+								icon="wpf:ask-question">
+								Request A Feature
+							</Button.Standard>
 						</div>
 					</div>
 				</div>

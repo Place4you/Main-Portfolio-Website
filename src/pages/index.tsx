@@ -49,7 +49,7 @@ export default function HomePage(): JSX.Element {
 	const isBirthday =
 		today.getDate() === birthday.getDate() && today.getMonth() === birthday.getMonth();
 
-	const description = `I am a python programmer & Student`;
+	const description = `Faizan, a cool kid in secondary school, loves coding stuff and shooting hoops with pals. He's all about fun times with friends and making cool stuff happen online!`;
 	return (
 		<Layout.Default>
 			{isBirthday && <Event event={EventType.BIRTHDAY} />}

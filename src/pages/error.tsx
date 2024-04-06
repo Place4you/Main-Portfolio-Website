@@ -41,6 +41,12 @@ export default function Error(): JSX.Element {
 								icon="feather:home">
 								Home
 							</Button.Standard>
+							<Button.Standard
+								type={NavigationItemType.LINK}
+								href="https://form.jotform.com/240964910977065"
+								icon="iconoir:chat-bubble-error">
+								Report an Error
+							</Button.Standard>
 						</div>
 					</div>
 				</div>
