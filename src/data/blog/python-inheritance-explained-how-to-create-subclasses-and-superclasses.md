@@ -1,6 +1,6 @@
 ---
 banner_alt: Python Inheritance Explained - How to Create Subclasses and Superclasses
-banner: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+banner: https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 title: Python Inheritance Explained - How to Create Subclasses and Superclasses
 description: Explore the intricacies of Python inheritance, crafting subclasses and superclasses to enhance code modularity and promote efficient code reuse for scalable software solutions.
 date: '2024-4-7'
