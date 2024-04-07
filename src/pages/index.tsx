@@ -14,7 +14,7 @@ const Event = dynamic<EventProps>(
 		ssr: false,
 	},
 );
-
+<meta name="google-site-verification" content="j_PKLTbuYlsG2DcHeJG18w3uZEHclV9145PXCAJH7zo" />;
 const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
