@@ -81,9 +81,9 @@ In this step, we set the initial value of `repeat` to `True`. Then, we enter a `
 
 By following these steps, we've built a simple yet functional currency converter in Python. Happy coding!
 
-## About Me
+## **About Me**
 
-I'm Faizan, a student living in the US. When I'm not hitting the books or brainstorming about resilience, you can probably find me hanging out with friends, exploring new places, or binge-watching my favorite shows on Netflix. Life's a wild ride, but hey, I'm here for it!
+My name is **Faizan** and I am a **programmer** and a **student** based in the US. You can find me on GitHub at [github.com/babsharkdoodoo](https://github.com/babsharkdoodoo).
 
 To learn more about me [Click Me](https://faizanak.vercel.app/blog/about)
 

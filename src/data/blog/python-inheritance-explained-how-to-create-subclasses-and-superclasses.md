@@ -84,9 +84,9 @@ In this updated example, both `Dog` and `Cat` redefine the `speak()` method inhe
 
 In conclusion, Python's inheritance mechanism empowers developers to build robust and scalable software systems. By creating subclasses and superclasses, you can organize your code effectively, promote code reuse, and facilitate extensibility. Understanding how to leverage inheritance in Python opens up a world of possibilities for crafting elegant and maintainable solutions to complex problems. So go ahead, experiment with subclasses and superclasses in your Python projects, and unlock the full potential of object-oriented programming. Happy coding!
 
-## About Me
+## **About Me**
 
-I'm Faizan, a student living in the US. When I'm not hitting the books or brainstorming about resilience, you can probably find me hanging out with friends, exploring new places, or binge-watching my favorite shows on Netflix. Life's a wild ride, but hey, I'm here for it!
+My name is **Faizan** and I am a **programmer** and a **student** based in the US. You can find me on GitHub at [github.com/babsharkdoodoo](https://github.com/babsharkdoodoo).
 
 To learn more about me [Click Me](https://faizanak.vercel.app/blog/about)
 
