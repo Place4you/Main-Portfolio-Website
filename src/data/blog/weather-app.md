@@ -26,6 +26,12 @@ In your Python file, import the `requests` module. This module will allow us to 
 import requests
 ```
 
+**If it is not installed, go to the **terminal** and copy and paste the following command**
+
+```python
+pip install requests
+```
+
 ## Step 3: Define Constants
 
 Next, define your API key and the base URL for the OpenWeatherMap API.
