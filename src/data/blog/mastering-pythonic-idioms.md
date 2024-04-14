@@ -57,3 +57,11 @@ Collaboration lies at the heart of open source software development, and version
 ## Conclusion
 
 In this comprehensive guide, we've explored the advanced features and best practices that distinguish proficient Python developers. As you continue on your Python journey, remember that mastery comes not from memorizing syntax or memorizing libraries but from understanding the underlying principles and practices that make Python such a powerful and versatile language. So, keep exploring, keep learning, and above all, keep coding!
+
+## **About Me**
+
+My name is **Faizan** and I am a **programmer** and a **student** based in the US. You can find me on GitHub at [github.com/babsharkdoodoo](https://github.com/babsharkdoodoo).
+
+To learn more about me [Click Me](https://faizanak.vercel.app/blog/about)
+
+**Peace ✌**
