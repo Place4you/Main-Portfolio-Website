@@ -7,7 +7,7 @@ export const colors: Record<string, Record<number, string>> = {
 		100: '#eaeaeb',
 		200: '#cacbcd',
 		300: '#a7a9ac',
-		400: '#dce5f2',
+		400: '#7b7d79',
 		500: '#282d34',
 		600: '#24292f',
 		700: '#181b20',
