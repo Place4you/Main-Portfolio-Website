@@ -1,7 +1,8 @@
 ---
 banner_alt: In closing, "The Psychology of the Brain" has offered a window into the complexities of the human mind, urging us to embrace the journey of understanding with curiosity and humility.
 banner: https://images.unsplash.com/photo-1606987482048-c6826204b417?q=80&w=1160&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-title: The Psychology of the Brain - Indepth
+title_prefix: Indepth guide on
+title: The Psychology of the Brain
 description: In closing, "The Psychology of the Brain" has offered a window into the complexities of the human mind, urging us to embrace the journey of understanding with curiosity and humility.
 date: '2024-4-15'
 ---

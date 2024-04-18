@@ -1,7 +1,8 @@
 ---
 banner_alt: A photo of 3 cupcakes, each with a number on it to spell out 2021
 banner: https://images.unsplash.com/photo-1518152006812-edab29b069ac?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-title: Science Fair | My First Experience
+title_prefix: My first experience at
+title: Science Fair 2023-2024
 description: It's been a long year & a fruitful one (i got to go to the county science fair for the first time)
 date: '2024-2-2'
 ---

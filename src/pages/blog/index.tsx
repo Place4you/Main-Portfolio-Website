@@ -1,6 +1,6 @@
 import { Blog } from '~/components';
-import { getAllPostsFrontMatter } from '~/lib/post';
 import { Layout } from '~/layouts';
+import { getAllPostsFrontMatter } from '~/lib/post';
 
 import type { GetStaticProps } from 'next';
 
@@ -28,7 +28,7 @@ export default function BlogPage({ serialisedFrontmatters }: BlogProps): JSX.Ele
 	const latestPost = frontmatters.shift();
 
 	return (
-		<Layout.Default seo={{ title: 'faizan ─ blog' }}>
+		<Layout.Default seo={{ title: 'Faizan ─ blog' }}>
 			<div className="mt-8 sm:mt-16 mb-20 mx-0 sm:mx-6 lg:mb-28 lg:mx-8">
 				<div className="relative max-w-6xl mx-auto">
 					<Blog.Latest frontmatter={latestPost} />

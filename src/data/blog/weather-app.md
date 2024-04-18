@@ -1,6 +1,7 @@
 ---
 banner_alt: How to make a Weather App in python
 banner: https://images.unsplash.com/photo-1561553590-267fc716698a?q=80&w=1192&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+title_prefix: Guide
 title: Building a Simple Weather App with Python and the OpenWeatherMap API
 description: Learn how to create a basic weather application in Python using the OpenWeatherMap API, guiding you through the process from setting up your development environment to retrieving and displaying weather data for any city
 date: '2024-4-8'

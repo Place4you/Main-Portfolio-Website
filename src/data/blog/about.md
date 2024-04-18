@@ -1,7 +1,8 @@
 ---
 banner_alt: About Me
 banner: https://images.unsplash.com/photo-1555786766-e1e69380c4bc?q=80&w=2068&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-title: About Me
+title_prefix: My Life,
+title: My Story
 description: Faizan A., a student who is coding whiz and basketball enthusiast in the US, embraces technology, sports, and community with passion and curiosity.
 date: '2024-2-27'
 ---

@@ -30,11 +30,6 @@ export function useSeoProps(
 				},
 			],
 		},
-		twitter: {
-			cardType: 'summary_large_image',
-			handle: '@faizandev',
-			site: '@faizandev',
-		},
 		...props,
 	};
 }

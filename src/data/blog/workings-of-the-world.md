@@ -1,7 +1,8 @@
 ---
 banner_alt: Welcome to 'Heartstrings - A Symphony of Emotions.' Here, we delve deep into the intricate melodies of the human heart, exploring its rhythms, passions, and vulnerabilities. Through reflective essays, personal anecdotes, and expert insights, we navigate the labyrinth of emotions, unraveling the threads that connect us all. Join us on a journey of self-discovery and empathy as we explore the beautiful complexity of the heart and celebrate the power of connection.
 banner: https://images.unsplash.com/photo-1503919483171-9ffc1debc390?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-title: Workings of the Medical World (Humans & Animals) - Indepth
+title_prefix: Indepth guide on
+title: Workings of the Medical World (Humans & Animals)
 description: Welcome to 'Heartstrings - A Symphony of Emotions.' Here, we delve deep into the intricate melodies of the human heart, exploring its rhythms, passions, and vulnerabilities. Through reflective essays, personal anecdotes, and expert insights, we navigate the labyrinth of emotions, unraveling the threads that connect us all. Join us on a journey of self-discovery and empathy as we explore the beautiful complexity of the heart and celebrate the power of connection.
 date: '2024-4-16'
 ---
