@@ -7,7 +7,7 @@
 	"redirects": [
 		{ "source": "/cv", "destination": "https://read.cv/faizanak" },
 		{ "source": "/github", "destination": "https://github.com/babysharkdoodoo" },
-		{ "source": "/linkedin", "destination": "https://www.linkedin.com/in/nurodev" },
+		{ "source": "/linkedin", "destination": "https://www.linkedin.com/in/faizanahmed" },
 		{ "source": "/portfolio", "destination": "/projects" },
 		{ "source": "/resume", "destination": "https://read.cv/faizanak" },
 		{ "source": "/email", "destination": "mailto:faizan.ak.2022@gmail.com" },
