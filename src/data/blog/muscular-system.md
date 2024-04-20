@@ -7,6 +7,8 @@ description: Explore the intricacies of the muscular system with "The Anatomy of
 date: '2024-4-20'
 ---
 
+By: Faizan A.
+
 Welcome to our journey through the intricacies of the muscular system, a marvel of biological engineering that powers every movement, from the simplest twitch of a finger to the coordinated dance of athletic performance. As we embark on this exploration, let us delve deep into the fascinating world of muscles, uncovering their anatomy, function, and significance in shaping human physiology and performance.
 
 At the heart of the musculoskeletal system lies an intricate network of muscles, the dynamic engines driving locomotion, stability, and metabolic regulation. These remarkable tissues come in various shapes, sizes, and compositions, each uniquely adapted to fulfill specific roles within the body. From the powerful contractions of skeletal muscles propelling us through space to the rhythmic pulsations of cardiac muscles sustaining the beat of life, the diversity and complexity of muscle tissues are truly awe-inspiring.
@@ -19,18 +21,18 @@ As we peer beneath the surface, we encounter the intricate microarchitecture of 
 
 Before engaging with any content or activities presented on this platform, it is crucial to recognize and acknowledge the following disclaimer:
 
-1. For Entertainment and Educational Purposes Only: The content provided on this platform, including articles, blogs, and discussions, is intended for entertainment and educational purposes only. While efforts are made to ensure accuracy and reliability, the information shared herein is not intended to serve as professional medical advice, diagnosis, or treatment.
-2. Not a Substitute for Medical Advice: The information presented on this platform should not be construed as a substitute for professional medical guidance. It is not a replacement for consultations with qualified healthcare professionals, and reliance on any information provided herein is at your own discretion.
-3. Consultation with Healthcare Professionals: If you have any medical concerns, symptoms, or conditions, it is essential to seek guidance from licensed healthcare professionals, such as physicians, specialists, or other qualified practitioners. They can offer personalized medical advice tailored to your specific needs and circumstances.
-4. No Guarantees of Accuracy or Reliability: While every effort is made to ensure the accuracy and reliability of the information shared, the creators, authors, and contributors to this platform disclaim any liability for inaccuracies, omissions, or errors in the content. They shall not be held responsible for any damages, losses, or adverse consequences resulting from the use or reliance on the information presented herein.
-5. Individual Responsibility: Users of this platform are solely responsible for evaluating the relevance and applicability of the information to their own situations. It is essential to exercise caution, judgment, and critical thinking when interpreting and applying the content provided.
-6. Seek Professional Assistance: In the event of medical emergencies or urgent healthcare needs, please seek immediate assistance from qualified healthcare providers or emergency services.
+1. **For Entertainment and Educational Purposes Only**: The content provided on this platform, including articles, blogs, and discussions, is intended for entertainment and educational purposes only. While efforts are made to ensure accuracy and reliability, the information shared herein is not intended to serve as professional medical advice, diagnosis, or treatment.
+2. **Not a Substitute for Medical Advice**: The information presented on this platform should not be construed as a substitute for professional medical guidance. It is not a replacement for consultations with qualified healthcare professionals, and reliance on any information provided herein is at your own discretion.
+3. **Consultation with Healthcare Professionals**: If you have any medical concerns, symptoms, or conditions, it is essential to seek guidance from licensed healthcare professionals, such as physicians, specialists, or other qualified practitioners. They can offer personalized medical advice tailored to your specific needs and circumstances.
+4. **No Guarantees of Accuracy or Reliability**: While every effort is made to ensure the accuracy and reliability of the information shared, the creators, authors, and contributors to this platform disclaim any liability for inaccuracies, omissions, or errors in the content. They shall not be held responsible for any damages, losses, or adverse consequences resulting from the use or reliance on the information presented herein.
+5. **Individual Responsibility**: Users of this platform are solely responsible for evaluating the relevance and applicability of the information to their own situations. It is essential to exercise caution, judgment, and critical thinking when interpreting and applying the content provided.
+6. **Seek Professional Assistance**: In the event of medical emergencies or urgent healthcare needs, please seek immediate assistance from qualified healthcare providers or emergency services.
 
 By accessing or utilizing this platform, you agree to accept and adhere to the terms of this disclaimer. If you do not agree with these terms, it is advised to refrain from accessing or using this platform. Remember, your health and well-being are paramount, and seeking professional medical advice is always advisable.
 
 ---
 
-The Anatomy of the Muscular System © 2024 by Faizan A. is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+**The Anatomy of the Muscular System © 2024 by Faizan A. is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.**
 
 # Table of Contents
 
