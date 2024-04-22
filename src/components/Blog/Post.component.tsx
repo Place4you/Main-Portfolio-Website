@@ -1,10 +1,9 @@
+import clsx from 'clsx';
 import Image from 'next/image';
 import Link from 'next/link';
-
+import { LinearGradient } from 'react-text-gradients';
 import { Pill } from '~/components';
-
 import type { FrontMatter } from '~/types';
-import clsx from 'clsx';
 
 interface PostProps {
 	index: number;
@@ -42,7 +41,9 @@ export function _Post({ index, frontmatter }: PostProps): JSX.Element {
 					)}>
 					<div className="flex flex-col flex-1 justify-around rounded-lg text-gray-300 dark:text-gray-400 default-focus">
 						<h4 className="text-xl font-bold text-gray-900 dark:text-gray-100">
-							{frontmatter.title}
+							<LinearGradient gradient={['to top right', '#6ac7f9 ,#687fff']}>
+								{frontmatter.title}
+							</LinearGradient>
 						</h4>
 						{((frontmatter.description && frontmatter.description_show) || true) && (
 							<p

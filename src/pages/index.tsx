@@ -1,12 +1,12 @@
 import { Icon } from '@iconify/react';
 import dynamic from 'next/dynamic';
-
+import { LinearGradient } from 'react-text-gradients';
+import styled from 'styled-components';
 import { Animate, Button, Pill } from '~/components';
-import { Layout } from '~/layouts';
-import { EventType, NavigationItemType } from '~/types';
-
 import type { EventProps } from '~/components/Event.component';
+import { Layout } from '~/layouts';
 import type { NavigationItem } from '~/types';
+import { EventType, NavigationItemType } from '~/types';
 
 const Event = dynamic<EventProps>(
 	() => import('~/components/Event.component').then(({ Event }) => Event),
@@ -14,6 +14,14 @@ const Event = dynamic<EventProps>(
 		ssr: false,
 	},
 );
+const StyledText = styled.span`
+	/* Add your desired highlight color */
+	text-shadow: 0 0 5px #486ef7; /* Adjust the color and blur radius as needed */
+`;
+const StyledTextNew = styled.span`
+	/* Add your desired highlight color */
+	text-shadow: 0 0 5px #486ef7; /* Adjust the color and blur radius as needed */
+`;
 const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
@@ -63,7 +71,15 @@ export default function HomePage(): JSX.Element {
 						className="text-gray-500 dark:text-white text-5xl sm:text-6xl md:text-6xl lg:text-8xl tracking-tight font-extrabold">
 						Hey <span className="inline-block origin-70 hover:(animate-wave)">👋</span>{' '}
 						I&apos;m Faizan, <br className="hidden sm:block" />a{' '}
-						<Pill.Standard className="mt-4">developer</Pill.Standard> & Student
+						<Pill.Standard className="mt-4">
+							{' '}
+							<StyledText>
+								<LinearGradient gradient={['to left', '#17acff ,#166df7']}>
+									developer
+								</LinearGradient>
+							</StyledText>
+						</Pill.Standard>{' '}
+						& Student
 					</Animate>
 
 					<Animate
@@ -76,7 +92,11 @@ export default function HomePage(): JSX.Element {
 						transition={{
 							delay: 0.5,
 						}}>
-						{description}
+						<StyledText>
+							<LinearGradient gradient={['to left', '#f5a59f ,#8196f7']}>
+								{description}
+							</LinearGradient>
+						</StyledText>
 					</Animate>
 
 					<div className="flex flex-col sm:flex-row items-center justify-center sm:space-x-4 space-y-4 sm:space-y-0 w-full mt-8 sm:mt-4">
