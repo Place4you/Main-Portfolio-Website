@@ -93,7 +93,7 @@ export default function HomePage(): JSX.Element {
 							delay: 0.5,
 						}}>
 						<StyledText>
-							<LinearGradient gradient={['to left', '#f5a59f ,#8196f7']}>
+							<LinearGradient gradient={['to bottom right', '#f5a59f ,#8196f7']}>
 								{description}
 							</LinearGradient>
 						</StyledText>
