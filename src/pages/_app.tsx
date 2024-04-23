@@ -27,7 +27,7 @@ export default function App({ Component, pageProps }: AppProps): JSX.Element {
 	const [play] = useClick();
 
 	useEvent('mousedown', () => play());
-	useEvent('mouseup', () => play());
+	//useEvent('mouseup', () => play());
 
 	useEffectOnce(() => {
 		router.events.on('routeChangeStart', () => NProgress.start());
