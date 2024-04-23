@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/react';
 import dynamic from 'next/dynamic';
 import { LinearGradient } from 'react-text-gradients';
-import styled from 'styled-components';
 import { Animate, Button, Pill } from '~/components';
 import type { EventProps } from '~/components/Event.component';
 import { Layout } from '~/layouts';
@@ -14,14 +13,6 @@ const Event = dynamic<EventProps>(
 		ssr: false,
 	},
 );
-const StyledText = styled.span`
-	/* Add your desired highlight color */
-	text-shadow: 0 0 0px #486ef7; /* Adjust the color and blur radius as needed */
-`;
-const StyledTextNew = styled.span`
-	/* Add your desired highlight color */
-	text-shadow: 0 0 0px #486ef7; /* Adjust the color and blur radius as needed */
-`;
 const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
@@ -73,11 +64,11 @@ export default function HomePage(): JSX.Element {
 						I&apos;m Faizan, <br className="hidden sm:block" />a{' '}
 						<Pill.Standard className="mt-4">
 							{' '}
-							<StyledText className="select-none">
-								<LinearGradient gradient={['to left', '#17acff ,#166df7']}>
-									developer
-								</LinearGradient>
-							</StyledText>
+							<LinearGradient
+								gradient={['to left', '#17acff ,#166df7']}
+								className="select-none">
+								developer
+							</LinearGradient>
 						</Pill.Standard>{' '}
 						& Student
 					</Animate>
@@ -92,11 +83,11 @@ export default function HomePage(): JSX.Element {
 						transition={{
 							delay: 0.5,
 						}}>
-						<StyledText className="select-none">
-							<LinearGradient gradient={['to right', '#6166f4 ,#57d8ff']}>
-								{description}
-							</LinearGradient>
-						</StyledText>
+						<LinearGradient
+							gradient={['to right', '#41a3ff ,#57aeff']}
+							className="select-none">
+							{description}
+						</LinearGradient>
 					</Animate>
 
 					<div className="flex flex-col sm:flex-row items-center justify-center sm:space-x-4 space-y-4 sm:space-y-0 w-full mt-8 sm:mt-4">

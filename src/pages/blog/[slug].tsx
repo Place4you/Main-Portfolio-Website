@@ -3,7 +3,6 @@ import { MDXRemote } from 'next-mdx-remote';
 import Image from 'next/image';
 import type { ParsedUrlQuery } from 'querystring';
 import { LinearGradient } from 'react-text-gradients';
-import styled from 'styled-components';
 import { Blog, Pill } from '~/components';
 import { Layout } from '~/layouts';
 import { getAllPostSlugs, getPost } from '~/lib/post';
@@ -16,10 +15,6 @@ interface PathProps extends ParsedUrlQuery {
 interface BlogPostProps {
 	post: Post;
 }
-const StyledText = styled.span`
-	/* Add your desired highlight color */
-	text-shadow: 0 0 0px #486ef7; /* Adjust the color and blur radius as needed */
-`;
 export const getStaticPaths: GetStaticPaths<PathProps> = async () => {
 	const posts = await getAllPostSlugs();
 
@@ -88,11 +83,11 @@ export default function BlogPost({ post }: BlogPostProps): JSX.Element {
 									</span>
 								)}
 								<span className="text-gray-900 dark:text-white sm:text-4xl text-3xl text-center leading-8 font-extrabold tracking-tight">
-									<StyledText className="select-none">
-										<LinearGradient gradient={['to right', '#17acff ,#6c16f7']}>
-											{post.frontmatter.title}
-										</LinearGradient>
-									</StyledText>
+									<LinearGradient
+										gradient={['to right', '#17acff ,#6c16f7']}
+										className="select-none">
+										{post.frontmatter.title}
+									</LinearGradient>
 								</span>
 							</div>
 

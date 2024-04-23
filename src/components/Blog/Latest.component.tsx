@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-
+import { LinearGradient } from 'react-text-gradients';
 import { Pill } from '~/components';
 
 import type { FrontMatter } from '~/types';
@@ -33,7 +33,11 @@ export function Latest({ frontmatter }: LatestProps): JSX.Element {
 				)}
 				<div className="flex flex-col flex-1 justify-evenly m-auto sm:m-0 pb-3 sm:p-1 sm:pt-0 lg:px-12 text-gray-300 dark:text-gray-400">
 					<h2 className="mt-6 mx-4 py-4 text-3xl sm:text-4xl lg:mt-0 lg:mx-0 lg:text-5xl font-bold line-clamp-4 text-gray-500 dark:text-white text-left">
-						{frontmatter.title || frontmatter.title}
+						<LinearGradient
+							gradient={['to left', '#5fadff ,#166df7']}
+							className="select-none">
+							{frontmatter.title || frontmatter.title}
+						</LinearGradient>
 					</h2>
 					{((frontmatter.description && frontmatter.description_show) || true) && (
 						<p className="mt-6 lg:mt-0 mx-6 lg:mx-0 text-lg line-clamp-3">
