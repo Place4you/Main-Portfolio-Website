@@ -16,11 +16,11 @@ const Event = dynamic<EventProps>(
 );
 const StyledText = styled.span`
 	/* Add your desired highlight color */
-	text-shadow: 0 0 5px #486ef7; /* Adjust the color and blur radius as needed */
+	text-shadow: 0 0 0px #486ef7; /* Adjust the color and blur radius as needed */
 `;
 const StyledTextNew = styled.span`
 	/* Add your desired highlight color */
-	text-shadow: 0 0 5px #486ef7; /* Adjust the color and blur radius as needed */
+	text-shadow: 0 0 0px #486ef7; /* Adjust the color and blur radius as needed */
 `;
 const ACTIONS: Array<NavigationItem> = [
 	{
@@ -73,7 +73,7 @@ export default function HomePage(): JSX.Element {
 						I&apos;m Faizan, <br className="hidden sm:block" />a{' '}
 						<Pill.Standard className="mt-4">
 							{' '}
-							<StyledText>
+							<StyledText className="select-none">
 								<LinearGradient gradient={['to left', '#17acff ,#166df7']}>
 									developer
 								</LinearGradient>
@@ -92,8 +92,8 @@ export default function HomePage(): JSX.Element {
 						transition={{
 							delay: 0.5,
 						}}>
-						<StyledText>
-							<LinearGradient gradient={['to bottom right', '#f5a59f ,#8196f7']}>
+						<StyledText className="select-none">
+							<LinearGradient gradient={['to right', '#6166f4 ,#57d8ff']}>
 								{description}
 							</LinearGradient>
 						</StyledText>
