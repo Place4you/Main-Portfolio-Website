@@ -7,7 +7,7 @@ function Counter() {
 		const storedCount = localStorage.getItem('pageVisits');
 		const initialCount = Number(storedCount) || 0;
 		setCount(initialCount + 1);
-		localStorage.setItem('pageVisits', initialCount + 1);
+		localStorage.setItem('pageVisits', String(initialCount + 1));
 	}, []);
 
 	return (
