@@ -5,6 +5,8 @@ import type { ParsedUrlQuery } from 'querystring';
 import { LinearGradient } from 'react-text-gradients';
 import { Blog, Pill } from '~/components';
 import { Layout } from '~/layouts';
+import Counter from './counter';
+
 import { getAllPostSlugs, getPost } from '~/lib/post';
 import type { Post } from '~/types';
 
@@ -93,6 +95,9 @@ export default function BlogPost({ post }: BlogPostProps): JSX.Element {
 
 							<span className="flex justify-center items-center">
 								<Pill.Date>{post.frontmatter.date}</Pill.Date>
+							</span>
+							<span>
+								<Counter />
 							</span>
 
 							{post.frontmatter.description && post.frontmatter.description_show && (
