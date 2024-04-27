@@ -1,15 +1,13 @@
 import splitbee from '@splitbee/web';
 import { Analytics } from '@vercel/analytics/react';
+import 'inter-ui/inter.css';
 import { ThemeProvider } from 'next-themes';
 import { AppProps } from 'next/app';
 import { useRouter } from 'next/router';
 import NProgress from 'nprogress';
-import { useEffectOnce, useEvent } from 'react-use';
-
-import 'inter-ui/inter.css';
 import 'nprogress/nprogress.css';
+import { useEffectOnce, useEvent } from 'react-use';
 import 'windi.css';
-
 import { colors, useClick } from '~/lib';
 import { Theme } from '~/types';
 
