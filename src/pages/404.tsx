@@ -28,7 +28,7 @@ export default function Error(): JSX.Element {
 								type={NavigationItemType.ACTION}
 								onClick={(): void => history.go(-1)}
 								icon="feather:arrow-left">
-								Back
+								Go Back
 							</Button.Standard>
 							<Button.Standard
 								type={NavigationItemType.LINK}

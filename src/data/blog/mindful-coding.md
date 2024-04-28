@@ -7,9 +7,6 @@ description: Explore effective strategies for maintaining mental health and well
 date: '2024-4-18'
 ---
 
-**Author: Faizan A.**
-**5 Minute Read**
-
 ## Table of Contents
 
 -   [Understanding Mindfulness](#understanding-mindfulness)
