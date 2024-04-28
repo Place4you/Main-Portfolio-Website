@@ -1,12 +1,11 @@
 import { Icon } from '@iconify/react';
 import dynamic from 'next/dynamic';
-import { LinearGradient } from 'react-text-gradients';
+import { LinearGradient, RadialGradient } from 'react-text-gradients';
 import { Animate, Button, Pill } from '~/components';
 import type { EventProps } from '~/components/Event.component';
 import { Layout } from '~/layouts';
 import type { NavigationItem } from '~/types';
 import { EventType, NavigationItemType } from '~/types';
-
 const Event = dynamic<EventProps>(
 	() => import('~/components/Event.component').then(({ Event }) => Event),
 	{
@@ -83,11 +82,11 @@ export default function HomePage(): JSX.Element {
 						transition={{
 							delay: 0.5,
 						}}>
-						<LinearGradient
-							gradient={['to right', '#41a3ff ,#57aeff']}
-							className="select-none">
+						<RadialGradient
+							gradient={['circle, #50dbf7 0%, #35aac1 35%, #00d4ff 100%']}
+							className="select-none cursor-custom">
 							{description}
-						</LinearGradient>
+						</RadialGradient>
 					</Animate>
 
 					<div className="flex flex-col sm:flex-row items-center justify-center sm:space-x-4 space-y-4 sm:space-y-0 w-full mt-8 sm:mt-4">
