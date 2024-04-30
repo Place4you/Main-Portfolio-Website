@@ -4,7 +4,7 @@ banner: https://images.unsplash.com/photo-1606987482048-c6826204b417?q=80&w=1160
 title_prefix: Indepth guide on
 title: The Psychology of the Brain
 description: In closing, "The Psychology of the Brain" has offered a window into the complexities of the human mind, urging us to embrace the journey of understanding with curiosity and humility.
-date: '2024-4-15'
+date: '2024-1-20'
 ---
 
 ## Introduction

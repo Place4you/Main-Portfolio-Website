@@ -4,7 +4,7 @@ banner: https://images.unsplash.com/photo-1499244571948-7ccddb3583f1?q=80&w=1932
 title_prefix: Empowering Adolescents
 title: The Power of Positivity Guide
 description: Unlock the potential for resilience and well-being in adolescents with our comprehensive guide on the transformative power of positivity. Delve into science, psychology, and practical strategies to cultivate optimism, cope with stress, and foster emotional well-being.
-date: '2024-4-24'
+date: '2024-4-6'
 ---
 
 ## Introduction

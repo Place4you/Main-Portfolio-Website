@@ -3,7 +3,7 @@ banner_alt: Level up your Python skills! This guide covers advanced features and
 banner: https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 title: Mastering Pythonic Idioms
 description: Level up your Python skills! This guide covers advanced features and best practices, from Pythonic idioms to collaborative development. Whether you're a beginner or experienced, you'll learn to write cleaner, more effective Python code.
-date: '2024-4-14'
+date: '2024-2-9'
 ---
 
 ## Introduction

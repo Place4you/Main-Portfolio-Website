@@ -4,7 +4,7 @@ banner: https://images.unsplash.com/photo-1507120410856-1f35574c3b45?q=80&w=870&
 title_prefix: Mindful Tech
 title: Strategies for Mental Health and Well-being in Tech
 description: Explore effective strategies for maintaining mental health and well-being in the fast-paced world of technology. Discover how mindfulness techniques can enhance your coding experience and foster a healthier work-life balance.
-date: '2024-4-18'
+date: '2024-2-16'
 ---
 
 ## Table of Contents

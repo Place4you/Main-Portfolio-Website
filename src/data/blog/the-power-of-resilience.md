@@ -4,7 +4,7 @@ banner: https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?q=80&w=2070
 title_prefix: Book
 title: The Power of Resilience - Navigating Life's Storms with Inner Strength
 description: Unleashing Resilience - Your Blueprint for Thriving Through Life's Challenges
-date: '2024-3-31'
+date: '2024-1-27'
 ---
 
 ## Table of Contents

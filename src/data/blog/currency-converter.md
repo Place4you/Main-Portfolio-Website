@@ -4,7 +4,7 @@ banner: https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?q=80&w=1170&au
 title_prefix: Guide
 title: Building a Currency Converter with Python - A Step-by-Step Guide
 description: Learn to build a currency converter in Python using the Frankfurt Exchange Rates API step-by-step, empowering you to convert currencies with ease.
-date: '2024-4-10'
+date: '2024-2-17'
 ---
 
 In this tutorial, we'll walk through the process of creating a currency converter using Python and the Frankfurt Exchange Rates API. Let's break down each step of the code to understand how it works.

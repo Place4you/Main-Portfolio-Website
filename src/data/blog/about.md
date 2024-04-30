@@ -4,7 +4,7 @@ banner: https://images.unsplash.com/photo-1555786766-e1e69380c4bc?q=80&w=2068&au
 title_prefix: My Life,
 title: My Story
 description: Faizan A., a student who is coding whiz and basketball enthusiast in the US, embraces technology, sports, and community with passion and curiosity.
-date: '2024-2-27'
+date: '2024-2-10'
 ---
 
 👋 Welcome to my digital abode! I'm Faizan A., a student based in the US, and I'm thrilled to extend a warm greeting to you.

@@ -4,7 +4,7 @@ banner: https://images.unsplash.com/photo-1561553590-267fc716698a?q=80&w=1192&au
 title_prefix: Guide
 title: Building a Simple Weather App with Python and the OpenWeatherMap API
 description: Learn how to create a basic weather application in Python using the OpenWeatherMap API, guiding you through the process from setting up your development environment to retrieving and displaying weather data for any city
-date: '2024-4-8'
+date: '2024-1-13'
 ---
 
 ## Introduction

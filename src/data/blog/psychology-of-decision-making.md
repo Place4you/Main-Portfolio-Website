@@ -4,7 +4,7 @@ banner: https://images.unsplash.com/photo-1617791160536-598cf32026fb?q=80&w=1364
 title_prefix: Indepth guide on
 title: The Psychology Of Decision-Making
 description: Discover the nuances of human decision-making across various contexts in this concise psychology blog post
-date: '2024-4-4'
+date: '2024-4-13'
 ---
 
 **Introduction**

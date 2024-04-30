@@ -3,7 +3,7 @@ banner_alt: Why You should learn python
 banner: https://images.unsplash.com/photo-1587620962725-abab7fe55159?q=80&w=1331&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 title: Unleash Your Potential - 10 Compelling Reasons Why Learning Python Will Transform Your Life
 description: Why you should learn python
-date: '2024-4-3'
+date: '2024-3-2'
 ---
 
 ## **Table of Contents**

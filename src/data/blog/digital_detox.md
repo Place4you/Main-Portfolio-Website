@@ -4,7 +4,7 @@ banner: https://images.unsplash.com/photo-1488509082528-cefbba5ad692?q=80&w=2070
 title_prefix: My first experience
 title: I made a book And its great | The Art of Digital Detox
 description: I Made A book for the first time!!! (Not published yet)
-date: '2024-3-27'
+date: '2024-2-24'
 ---
 
 **By Faizan Ahmed**

@@ -3,7 +3,7 @@ banner_alt: Navigating High School and Coding Adventures - A Comprehensive Guide
 banner: https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 title: Navigating High School and Coding Adventures - A Comprehensive Guide
 description: Embark on a thrilling adventure through high school and coding with our guide! Discover tips, strategies, and inspiration to conquer homework, embrace coding quests, and navigate adolescence with confidence. Unlock your potential and embark on an unforgettable journey towards success!
-date: '2024-4-6'
+date: '2024-3-30'
 ---
 
 ## Introduction

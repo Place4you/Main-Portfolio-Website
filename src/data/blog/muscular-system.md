@@ -4,7 +4,7 @@ banner: https://images.unsplash.com/photo-1555243896-c709bfa0b564?q=80&w=1170&au
 title_prefix: 🏋️‍♂️💪 Muscle Mastery
 title: The Anatomy of the Muscular System
 description: Explore the intricacies of the muscular system with "The Anatomy of the Muscular System ".Dive into comprehensive insights, from skeletal muscle structure to neuromuscular junctions, and embark on a journey of understanding the powerhouse behind movement and strength.
-date: '2024-4-20'
+date: '2024-3-23'
 ---
 
 By: Faizan A.

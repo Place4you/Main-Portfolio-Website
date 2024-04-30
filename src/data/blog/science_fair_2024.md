@@ -4,7 +4,7 @@ banner: https://images.unsplash.com/photo-1518152006812-edab29b069ac?q=80&w=2070
 title_prefix: My first experience at
 title: Science Fair 2023-2024
 description: It's been a long year & a fruitful one (i got to go to the county science fair for the first time)
-date: '2024-2-2'
+date: '2024-4-27'
 ---
 
 Note: Research is based on my own project. Click here for the [Research Paper](https://drive.google.com/file/d/1O3PDD6LtsJ5p2B3vewsBOcFzmF1f_Eej/view?usp=drive_link)

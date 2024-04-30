@@ -4,7 +4,7 @@ banner: https://images.unsplash.com/photo-1503919483171-9ffc1debc390?q=80&w=1170
 title_prefix: Indepth guide on
 title: Workings of the Medical World (Humans & Animals)
 description: Welcome to 'Heartstrings - A Symphony of Emotions.' Here, we delve deep into the intricate melodies of the human heart, exploring its rhythms, passions, and vulnerabilities. Through reflective essays, personal anecdotes, and expert insights, we navigate the labyrinth of emotions, unraveling the threads that connect us all. Join us on a journey of self-discovery and empathy as we explore the beautiful complexity of the heart and celebrate the power of connection.
-date: '2024-4-16'
+date: '2024-1-6'
 ---
 
 ## Introduction
