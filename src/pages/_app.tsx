@@ -11,6 +11,7 @@ import 'windi.css';
 import { colors, useClick } from '~/lib';
 import { Theme } from '~/types';
 
+
 NProgress.configure({
 	easing: 'ease',
 	minimum: 0.3,
