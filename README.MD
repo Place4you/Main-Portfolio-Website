@@ -1,5 +1,4 @@
 ---
-
 In this comprehensive guide, we'll walk you through the process of cloning a portfolio website, downloading its dependencies, understanding its structure, and providing tips for customization. Additionally, we'll cover how to report bugs or errors and how to reach out for assistance.
 
 The portfolio website we'll be working with is hosted at [faizanak.vercel.app](https://faizanak.vercel.app/) and its source code is available on GitHub at [this repository](https://github.com/babysharkdoodoo/Nuro-Portfolio-Main).
@@ -9,26 +8,25 @@ The portfolio website we'll be working with is hosted at [faizanak.vercel.app](h
 To clone the portfolio website repository from GitHub, you can use the following command in your terminal or command prompt:
 
 ```bash
-git clone https://github.com/babysharkdoodoo/Nuro-Portfolio-Main.git`
+git clone https://github.com/babysharkdoodoo/Nuro-Portfolio-Main.git` 
 ```
-
 This command will create a new directory named `Nuro-Portfolio-Main` and download all the source code into it.
 
 ## Downloading Dependencies
 
 Once you have cloned the repository, navigate into the project directory:
 
-`cd Nuro-Portfolio-Main`
+`cd Nuro-Portfolio-Main` 
 
 Next, you'll need to install the project dependencies using npm or yarn. Run one of the following commands:
 
 Using npm:
 
-`npm install`
+`npm install` 
 
 Using yarn:
 
-`yarn install`
+`yarn install` 
 
 This will download and install all the necessary dependencies specified in the `package.json` file.
 
@@ -75,10 +73,10 @@ Happy coding! 🚀
 
 The portfolio website and its source code are licensed under the [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.en.html). Below is a summary of the key points of this license:
 
--   **Copyleft Provision**: Requires modifications and derivatives of the software to be distributed under the same license.
--   **Network Use Provision**: Extends copyleft to cover distribution over a network, ensuring availability of source code.
--   **Source Code Distribution**: Requires distribution of modified source code to users who interact with the software over a network.
--   **Compatibility with GPLv3**: Compatible with the GNU General Public License version 3.
--   **Patent Grant**: Includes an explicit patent grant ensuring recipients are granted licenses to necessary patents.
+- **Copyleft Provision**: Requires modifications and derivatives of the software to be distributed under the same license.
+- **Network Use Provision**: Extends copyleft to cover distribution over a network, ensuring availability of source code.
+- **Source Code Distribution**: Requires distribution of modified source code to users who interact with the software over a network.
+- **Compatibility with GPLv3**: Compatible with the GNU General Public License version 3.
+- **Patent Grant**: Includes an explicit patent grant ensuring recipients are granted licenses to necessary patents.
 
 For more details, please refer to the [full text of the GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.en.html).
