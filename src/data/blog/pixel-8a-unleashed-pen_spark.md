@@ -2,12 +2,12 @@
 banner_alt: Google Pixel 8a - Powerful Performance, Exceptional Camera, Affordable Price
 banner: https://true-tech.net/storage/2024/03/Upcoming-Google-Pixel-8a-Expected-to-Come-with-Higher-Price-Tag-Compared-to-Previous-Model-860x484.jpg
 title_prefix: Unveiling
-title: Google Pixel 8a - Unleash Affordability and AI Power
+title: Google Pixel 8a - Unleash Affordability and AI Power (Leaks)
 description: Experience the Google Pixel difference at a groundbreaking price. Explore the Pixel 8a's powerful processor, exceptional camera powered by AI, clean software, and all-day battery life. Learn if it's the perfect fit for you!
 date: '2024-5-11'
 ---
 
-**Note: This is based on Leaks by**
+**Note: This is based on Leaks by [`Android Police`](https://www.androidpolice.com/google-pixel-8a/)**
 
 The Google Pixel line has carved a niche for itself in the smartphone market, consistently offering exceptional camera experiences and clean software at a premium price point. Enter the Google Pixel 8a, aiming to shake things up by delivering the "Google experience" at a much more affordable price tag. Let's delve into the Pixel 8a, exploring its features, potential strengths and weaknesses, and how it stacks up against the competition.
 
@@ -64,3 +64,11 @@ High Refresh Rate Chasers: If a super smooth display is a priority, the Pixel 8a
 ## The Final Verdict
 
 The Google Pixel 8a emerges as a compelling choice for smartphone users seeking a phone that excels in everyday use without breaking the bank. It packs a powerful processor, exceptional camera capabilities with the magic of Google AI, a clean software experience with Android 14, and a battery that lasts the day. While it makes some trade-offs on display resolution and refresh rate to hit its attractive price point, these might not be dealbreakers for most users. If you prioritize a great camera, a clean software experience powered by Google AI, and all this at a competitive price, then the Pixel 8a is a smartphone that deserves your serious consideration.
+
+## **About Me**
+
+My name is **Faizan** and I am a **programmer** and a **student** based in the US. You can find me on GitHub at [github.com/babsharkdoodoo](https://github.com/babsharkdoodoo).
+
+To learn more about me [`Click Me`](https://faizanak.vercel.app/blog/about)
+
+**Peace ✌**

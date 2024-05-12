@@ -43,6 +43,6 @@ As I gaze into the horizon, I see endless possibilities and boundless potential.
 
 ## **Let's Connect!**
 
-Ready to join me on this journey of exploration and discovery? Whether you're a fellow coder, a sports enthusiast, or someone simply seeking meaningful connections, I'd love to hear from you. Feel free to connect with me at [faizan.ak.2022@gmail.com](mailto:faizan.ak.2022@gmail.com), or follow me on [GitHub](https://github.com/babysharkdoodoo), where I showcase my latest projects and coding endeavors. Together, let's inspire, innovate, and create something extraordinary!
+Ready to join me on this journey of exploration and discovery? Whether you're a fellow coder, a sports enthusiast, or someone simply seeking meaningful connections, I'd love to hear from you. Feel free to connect with me at [faizan.ak.2022@gmail.com](mailto:faizan.ak.2022@gmail.com), or follow me on [`GitHub`](https://github.com/babysharkdoodoo), where I showcase my latest projects and coding endeavors. Together, let's inspire, innovate, and create something extraordinary!
 
 ✌️ Peace

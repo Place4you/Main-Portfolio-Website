@@ -73,6 +73,6 @@ Learning to code is not just about mastering a skill; it's about embracing a min
 
 My name is **Faizan** and I am a **programmer** and a **student** based in the US. You can find me on GitHub at [github.com/babsharkdoodoo](https://github.com/babsharkdoodoo).
 
-To learn more about me [Click Me](https://faizanak.vercel.app/blog/about)
+To learn more about me [`Click Me`](https://faizanak.vercel.app/blog/about)
 
 **Peace ✌**

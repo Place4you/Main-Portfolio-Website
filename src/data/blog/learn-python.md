@@ -123,6 +123,6 @@ In conclusion, learning Python isn't just about acquiring a new skill—it's abo
 
 My name is **Faizan** and I am a **programmer** and a **student** based in the US. You can find me on GitHub at [github.com/babsharkdoodoo](https://github.com/babsharkdoodoo).
 
-To learn more about me [Click Me](https://faizanak.vercel.app/blog/about)
+To learn more about me [`Click Me`](https://faizanak.vercel.app/blog/about)
 
 **Peace ✌**
