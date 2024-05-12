@@ -34,6 +34,9 @@ const config = {
 			// Unsplash
 			'source.unsplash.com',
 			'images.unsplash.com',
+
+			// Pixel 8a
+			'true-tech.net',
 		],
 	},
 	// Inspired by: https://github.com/leerob/leerob.io/blob/main/next.config.js#L44-L81
