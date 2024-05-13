@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/react';
 import dynamic from 'next/dynamic';
-import { LinearGradient, RadialGradient } from 'react-text-gradients';
+import { LinearGradient } from 'react-text-gradients';
 import { Animate, Button, Pill } from '~/components';
 import type { EventProps } from '~/components/Event.component';
 import { Layout } from '~/layouts';
@@ -38,6 +38,13 @@ const ACTIONS: Array<NavigationItem> = [
 		href: 'https://github.com/babysharkdoodoo',
 		icon: <Icon className="mr-3" icon="feather:github" />,
 		text: 'GitHub',
+	},
+	{
+		type: NavigationItemType.LINK,
+		external: true,
+		href: 'https://plexilix.vercel.app/',
+		icon: <Icon className="mr-3" icon="pajamas:paper-airplane" />,
+		text: 'Newsletter',
 	},
 ];
 
@@ -83,11 +90,11 @@ export default function HomePage(): JSX.Element {
 						transition={{
 							delay: 0.5,
 						}}>
-						<RadialGradient
-							gradient={['circle, #50dbf7 0%, #35aac1 35%, #00d4ff 100%']}
+						<LinearGradient
+							gradient={['to bottom right', '#799cf5f8 ,#16acf7']}
 							className="select-none cursor-custom">
 							{description}
-						</RadialGradient>
+						</LinearGradient>
 					</Animate>
 
 					<div className="flex flex-col sm:flex-row items-center justify-center sm:space-x-4 space-y-4 sm:space-y-0 w-full mt-8 sm:mt-4">

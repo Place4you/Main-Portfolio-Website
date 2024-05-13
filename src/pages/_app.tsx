@@ -11,13 +11,7 @@ import 'windi.css';
 import { colors, useClick } from '~/lib';
 import { Theme } from '~/types';
 
-
-NProgress.configure({
-	easing: 'ease',
-	minimum: 0.3,
-	showSpinner: false,
-	speed: 800,
-});
+// Now we can add the component in return () code should look like this.
 
 export { reportWebVitals } from 'next-axiom';
 
