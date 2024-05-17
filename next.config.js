@@ -37,6 +37,9 @@ const config = {
 
 			// Pixel 8a
 			'true-tech.net',
+
+			// Pexels
+			'images.pexels.com',
 		],
 	},
 	// Inspired by: https://github.com/leerob/leerob.io/blob/main/next.config.js#L44-L81
