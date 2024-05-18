@@ -48,11 +48,19 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 			href: 'mailto:faizan.ak.2022@gmail.com',
 			external: true,
 		},
+
 		{
 			type: NavigationItemType.LINK,
 			icon: 'feather:github',
 			text: 'GitHub',
 			href: 'https://github.com/babysharkdoodoo',
+			external: true,
+		},
+		{
+			type: NavigationItemType.LINK,
+			icon: 'uit:linkedin-alt',
+			text: 'linkedin',
+			href: 'https://www.linkedin.com/in/faizan-ahmed-018320280/',
 			external: true,
 		},
 	],
