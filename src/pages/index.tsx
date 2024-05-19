@@ -54,7 +54,7 @@ export default function HomePage(): JSX.Element {
 	const isBirthday =
 		today.getDate() === birthday.getDate() && today.getMonth() === birthday.getMonth();
 
-	const description = `Faizan, a cool kid in secondary school, loves coding stuff and shooting hoops with pals. He's all about fun times with friends and making cool stuff happen online!`;
+	const description = `Faizan is a creative young coder who builds amazing projects with his programming skills. When he's not coding, he loves playing basketball and showing off his athletic abilities on the court.`;
 	return (
 		<Layout.Default>
 			{isBirthday && <Event event={EventType.BIRTHDAY} />}
@@ -68,16 +68,15 @@ export default function HomePage(): JSX.Element {
 						}}
 						className="text-gray-500 dark:text-white text-5xl sm:text-6xl md:text-6xl lg:text-8xl tracking-tight font-extrabold">
 						Hey <span className="inline-block origin-70 hover:(animate-wave)">👋</span>{' '}
-						I&apos;m Faizan, <br className="hidden sm:block" />a{' '}
+						I&apos;m Faizan, <br className="hidden sm:block" />a big brain 🧠
 						<Pill.Standard className="mt-4">
 							{' '}
 							<LinearGradient
 								gradient={['to left', '#17acff ,#166df7']}
 								className="select-none">
-								developer
+								Student
 							</LinearGradient>
 						</Pill.Standard>{' '}
-						& Student
 					</Animate>
 
 					<Animate

@@ -43,7 +43,7 @@ export default function Error(): JSX.Element {
 							</Button.Standard>
 							<Button.Standard
 								type={NavigationItemType.LINK}
-								href="https://form.jotform.com/240964910977065"
+								href="https://og6rdvltyvs.typeform.com/to/fq1eDh7P"
 								icon="iconoir:chat-bubble-error">
 								Report an Error
 							</Button.Standard>

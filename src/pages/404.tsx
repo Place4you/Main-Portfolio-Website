@@ -38,7 +38,7 @@ export default function Error(): JSX.Element {
 							</Button.Standard>
 							<Button.Standard
 								type={NavigationItemType.LINK}
-								href="https://form.jotform.com/240964612082152"
+								href="https://og6rdvltyvs.typeform.com/to/HEWZakAE"
 								icon="wpf:ask-question">
 								Request A Feature
 							</Button.Standard>
