@@ -76,6 +76,7 @@
 		"react-ts-typewriter": "^0.1.8-b",
 		"react-use": "^17.3.1",
 		"react-use-lanyard": "^0.1.0",
+		"reactjs-popup": "^2.0.6",
 		"rehype-autolink-headings": "^7.1.0",
 		"remark-autolink-headings": "^7.0.1",
 		"remark-code-titles": "^0.1.2",
