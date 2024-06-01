@@ -40,6 +40,10 @@ const config = {
 
 			// Pexels
 			'images.pexels.com',
+			// Crypto
+			'cryptoadventure.com',
+			// One
+			'assets-global.website-files.com',
 		],
 	},
 	// Inspired by: https://github.com/leerob/leerob.io/blob/main/next.config.js#L44-L81

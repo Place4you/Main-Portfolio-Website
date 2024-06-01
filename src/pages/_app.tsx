@@ -8,6 +8,7 @@ import NProgress from 'nprogress';
 import 'nprogress/nprogress.css';
 import { useEffectOnce, useEvent } from 'react-use';
 import 'windi.css';
+import '~/components/globals.css';
 import { colors, useClick } from '~/lib';
 import { Theme } from '~/types';
 
@@ -35,8 +36,10 @@ export default function App({ Component, pageProps }: AppProps): JSX.Element {
 
 	return (
 		<ThemeProvider attribute="class" defaultTheme={Theme.SYSTEM} themes={Object.values(Theme)}>
+			{/*<CustomCursor />*/}
+
 			<Analytics />
-			<Component {...pageProps} />
+			<Component {...pageProps} className="hide-cursor" />
 			<style jsx global>{`
 				#nprogress .bar {
 					height: 0.25rem;
