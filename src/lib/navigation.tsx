@@ -63,6 +63,13 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 			href: 'https://www.linkedin.com/in/faizan-ahmed-018320280/',
 			external: true,
 		},
+		{
+			type: NavigationItemType.LINK,
+			icon: 'solar:code-2-broken',
+			text: 'Daily Dev',
+			href: 'https://app.daily.dev/faizanak',
+			external: true,
+		},
 	],
 ];
 
