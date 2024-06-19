@@ -13,6 +13,8 @@ function Counter() {
 	return (
 		<div className="block text-primary-50 font-semibold tracking-wide uppercase text-base text-center">
 			Author: <a href="https://faizanak.vercel.app/blog/about">Faizan A.</a>
+			<br />
+			Keep Up to date with the<a href="https://plexilix.vercel.app/"> plexilix newsletter</a>
 		</div>
 	);
 }
