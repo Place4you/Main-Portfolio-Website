@@ -11,6 +11,7 @@
 		{ "source": "/portfolio", "destination": "/projects" },
 		{ "source": "/resume", "destination": "https://read.cv/faizanak" },
 		{ "source": "/email", "destination": "mailto:faizan.ak.2022@gmail.com" },
+		{ "source": "/about", "destination": "/blog/about" },
 		{
 			"source": "/contact",
 			"destination": "mailto:faizan.ak.2022@gmail.com"

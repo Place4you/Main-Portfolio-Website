@@ -6,10 +6,6 @@ module.exports = {
 	darkMode: 'class',
 	theme: {
 		extend: {
-			cursor: {
-				none: 'cursor-none',
-				custom: "url(\"data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 24 24' fill='none' stroke='%23fff' stroke-width='1' stroke-linecap='round' stroke-linejoin='round'%3e%3ccircle cx='12' cy='12' r='10'/%3e%3c/svg%3e\"), auto",
-			},
 			backgroundOpacity: {
 				15: '0.15',
 			},
