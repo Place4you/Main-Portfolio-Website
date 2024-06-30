@@ -37,6 +37,7 @@ const ACTIONS: Array<NavigationItem> = [
 		external: true,
 		href: 'https://github.com/babysharkdoodoo',
 		icon: <Icon className="mr-3" icon="feather:github" />,
+		target: '_blank',
 		text: 'GitHub',
 	},
 	{
